@@ -1,2 +1,2 @@
 # example
-just for tutorial and learning githup
+just for tutorial and learning github
